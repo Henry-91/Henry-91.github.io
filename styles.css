@@ -1,3 +1,8 @@
+body {
+  background: gold;
+  font-family: calibri, sans-serif;
+}
+
 #tMiss {
   margin-right: 7px;
 }
@@ -8,4 +13,20 @@ body {
 
 #byline {
   font-size: 12px;
+}
+
+#main {
+  background: white;
+  margin: 0 auto;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  box-shadow: 5px 5px 5px;
+  font-size: 16px;
+}
+
+#bridge {
+  font-size: 40px;
+  margin: 0;
 }
